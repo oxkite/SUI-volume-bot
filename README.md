@@ -1,7 +1,7 @@
 # 📈 SUI Volume Bot 📈
 The SUI Volume Bot is a powerful tool designed to track and analyze trading volume on the SUI blockchain. It provides real-time insights to enhance trading strategies for developers, traders, and blockchain enthusiasts.
 
-https://t.me/sina122900
+https://t.me/@SwolexBot
 
 
 
